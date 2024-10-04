@@ -8,4 +8,3 @@ This project was built while learning the essentials of React.js, covering key c
         - User Interaction & State Management: Handling user events and managing state for interactive applications.
         - Lists & Conditional Rendering: Techniques to render lists and conditionally display content.
 
-This project showcases practical implementation of these fundamental concepts, making it a solid starting point for deeper React development.
